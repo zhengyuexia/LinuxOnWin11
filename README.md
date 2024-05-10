@@ -17,7 +17,7 @@
 - Make dll executable and run it in terminal
 
 ## Run Avalonia in ubuntu
-* Install Avalonia extension in visual studio
+* Install Avalonia extension in visual studio https://docs.avaloniaui.net/docs/get-started/
 * New an Avalonia application that contains 2 projects, and the one with the extension of Desktop is the executable app
 * Just publish the Desktop project
 * Copy the result to ubuntu system to execute
